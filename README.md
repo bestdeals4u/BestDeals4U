@@ -16,7 +16,7 @@ We focus on:
 ## 🌐 Website
 👉 https://bestdeals4u.trade
 
-## 📌 About
+## 📌 About us
 We curate high-value deals and opportunities across multiple niches. Our goal is simple: help you spend smarter.
 
 ---
