@@ -1,3 +1,5 @@
+![Updated](https://img.shields.io/badge/updated-daily-brightgreen)
+![Deals](https://img.shields.io/badge/deals-live-blue)
 # BestDeals4U.trade
 
 BestDeals4U.trade helps you discover the best deals, trending collectibles, and smart online buying opportunities.
